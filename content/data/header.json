@@ -32,7 +32,7 @@
         },
         {
             "label": "专题专栏",
-            "altText": "Dropdown",
+            "altText": "Columns",
             "links": [
                 {
                     "label": "Dropdown item",
