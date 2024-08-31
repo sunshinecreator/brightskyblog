@@ -3,9 +3,7 @@ type: PostLayout
 title: 积极做好迎接并推动变革的准备
 date: '2024-08-31'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 青年一代应该认清时与势，为未来发展变革做出积极主动作为。
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
