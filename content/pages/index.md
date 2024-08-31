@@ -7,7 +7,7 @@ sections:
       text: 数字经济发展态势与应对措施
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 2024年第1期公开报道
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
