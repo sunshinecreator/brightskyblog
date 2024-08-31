@@ -23,7 +23,7 @@
         },
         {
             "label": "人力资源",
-            "altText": "Careers page",
+            "altText": "Careers",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
