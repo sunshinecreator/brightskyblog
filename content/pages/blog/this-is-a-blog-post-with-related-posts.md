@@ -31,7 +31,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: 近期文章 Recent Posts
       color: text-dark
       styles:
         self:
