@@ -15,7 +15,7 @@
         {
             "label": "研究洞见 Insights",
             "altText": "Insights",
-            "url": "/blog",
+            "url": "/insights",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
