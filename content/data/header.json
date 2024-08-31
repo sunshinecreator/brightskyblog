@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "研究洞见 Insights",
-            "altText": "Blog",
+            "altText": "Insights",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
