@@ -64,10 +64,21 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+随着生活成本陡然升高，收入差距不断扩大，社交媒体的负面影响和全球政治动荡等因素的交织叠加。焦虑和担忧已经成为了许多人生活中的主色调。
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+对于年轻一代来说，世界并不像某些人想象的那么美好。
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+# 人工智能带来的威胁
+
+人工智能对工作构成威胁，尤其是多年来一直为新加坡专业阶层服务的传统工作。它正在重塑工作的概念。至于获得更多机会，这使得在更多人有资格且竞争日益全球化的人才库中脱颖而出变得更加困难。85% 的员工认为人工智能将在未来两到三年内对他们的工作产生影响，其中一半的人认为人工智能将取代他们的部分工作职能。
+
+# 世界格局动荡带来的思想变化
+
+中国国家主席习近平先生
+
+新加坡国务资政李显龙先生表示，
+
+# 如何应对
+
+
