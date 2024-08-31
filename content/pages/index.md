@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 2024年第1期公开报道
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      以数字经济为驱动力的新质生产力对重点领域的推动，将会带来产业发展的全新浪潮。如何看待并做出前瞻性战略性创新性布局，成为了当下从业人员必须回答的问题。
     actions:
       - label: Get started
         altText: ''
