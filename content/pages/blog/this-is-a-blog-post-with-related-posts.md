@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: 青年一代应该认清时与势，为未来发展变革做出积极主动作为。
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/202408310001.jpg
   altText: Thumbnail
   elementId: ''
   styles:
